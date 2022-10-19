@@ -19,3 +19,13 @@
     git push origin master
 
 3. Tạo first_branch 
+
+    git branch first
+    git checkout first
+
+    touch first.txt
+    git add .
+    git commit -m "add first branch file"
+    gish push
+
+    
